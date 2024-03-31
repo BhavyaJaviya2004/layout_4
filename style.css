@@ -1,0 +1,32 @@
+.image {
+    background-image: url('./layout4.1.jpeg');
+    color:white;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    height:100vh;
+    width:auto;
+    background-size: cover;
+}
+.color{
+    background-color:#EDEEF2;
+
+}
+.color1{
+    background-color:#EDEEF2;
+}
+.color2{
+    background-color:#BBD9E1;
+}
+.color3{
+    background-color:#EDEEF2;
+}
+/*.navbarcolor{
+    color:white;
+
+}*/
+.col-md-7_subimg{
+
+}
+.row_informansan{
+    
+}
